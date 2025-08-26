@@ -17,3 +17,5 @@ node convert_heic_to_jpeg.js "./Photos" delete
 ```
 
 For detailed usage instructions and examples, see the comprehensive comments at the top of the script file.
+
+The PDE example was just me curious about how good Claude is with Processing: pretty solid. 
